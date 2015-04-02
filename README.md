@@ -1,1 +1,1 @@
-# Sample code of the website brain-clinic.com
+Sample code of the website brain-clinic.com
